@@ -1,0 +1,6 @@
+1. I was able to install django-baton and django-grappelli
+      They both installed well, BUT 
+      grappelli doesn't have native support for tabs - so it is out
+      
+      Also baton seems to have too many dependencies and changed a lot of my configurations.
+      Besides that it couldn't find many of my key urls - it seem its "autodetect" thing is not working well.
