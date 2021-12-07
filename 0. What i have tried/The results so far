@@ -4,3 +4,7 @@
       
       Also baton seems to have too many dependencies and changed a lot of my configurations.
       Besides that it couldn't find many of my key urls - it seem its "autodetect" thing is not working well.
+      
+      
+2. I installed django-jazzmin too but it also gave template syntax errors that i could not resolve.
+            now i am still stack with django 1.11 because of my tabbed-admin forms.
